@@ -1,0 +1,59 @@
+.fl-fl {
+    -webkit-box-shadow: 0px 4px 11px -1px #f7b926;
+    box-shadow: 0px 4px 11px -1px #f7b926;
+    background: black;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    width: auto;
+    border-radius: 50%;
+    position: fixed;
+    right: 0px;
+    z-index: 1000;
+    font: normal normal 10px Arial;
+    -webkit-transition: all .25s ease;
+    -moz-transition: all .25s ease;
+    -ms-transition: all .25s ease;
+    -o-transition: all .25s ease;
+    transition: all .25s ease;
+}
+
+.icon {
+    color: #e12454;
+}
+
+.s {
+    font-size: 40px;
+    color: #f7b926;
+    padding: 13px 0;
+    width: 33px;
+    padding-right: 9px;
+    margin-left: 13px;
+}
+
+.fl-fl:hover {
+    right: 0;
+}
+
+.fl-fl a {
+    color: #f7b926 !important;
+    text-decoration: none;
+    text-align: center;
+    line-height: 43px!important;
+    vertical-align: top!important;
+}
+
+.float-fb {
+    top: 53%;
+}
+
+.float-tw {
+    top: 61%;
+}
+
+.float-gp {
+    top: 37%;
+}
+
+.float-rs {
+    top: 45%;
+}
